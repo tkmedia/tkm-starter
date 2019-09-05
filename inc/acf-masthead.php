@@ -9,7 +9,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c8e505e45130',
 			'label' => __('Main Page Title', 'tkm-starter'),
-			'name' => 'page_masthead_title',
+			'name' => 'masthead_title',
 			'type' => 'text',
 			'instructions' => __('H1 - Replace page name title', 'tkm-starter'),
 			'required' => 0,
@@ -28,7 +28,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5cdbb46c75871',
 			'label' => __('Hide Main Page Title', 'tkm-starter'),
-			'name' => 'page_masthead_title_hide',
+			'name' => 'masthead_title_hide',
 			'type' => 'true_false',
 			'instructions' => __('If main page title is hidden you should add an H1 title in page', 'tkm-starter'),
 			'required' => 0,
@@ -95,7 +95,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c8e510sdw331',
 			'label' => __('Page Sub Title', 'tkm-starter'),
-			'name' => 'page_masthead_subtitle',
+			'name' => 'masthead_subtitle',
 			'type' => 'textarea',
 			'instructions' => '',
 			'required' => 0,
@@ -114,7 +114,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c8e510c45131',
 			'label' => __('Short Excerpt', 'tkm-starter'),
-			'name' => 'page_masthead_excerpt',
+			'name' => 'masthead_excerpt',
 			'type' => 'textarea',
 			'instructions' => __('will be shown on related pages linked here', 'tkm-starter'),
 			'required' => 0,
@@ -134,7 +134,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c8e515a45132',
 			'label' => __('Intro Text', 'tkm-starter'),
-			'name' => 'page_masthead_text',
+			'name' => 'masthead_text',
 			'type' => 'wysiwyg',
 			'instructions' => __('Position will be set by slider masthead style', 'tkm-starter'),
 			'required' => 0,
@@ -652,7 +652,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c978bcf63295',
 			'label' => __('Main title color', 'tkm-starter'),
-			'name' => 'page_masthead_title_color',
+			'name' => 'masthead_title_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -678,7 +678,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c978b4663293',
 			'label' => __('Intro text color', 'tkm-starter'),
-			'name' => 'page_masthead_text_color',
+			'name' => 'masthead_text_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -708,7 +708,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c97sd393',
 			'label' => __('Intro background color', 'tkm-starter'),
-			'name' => 'page_masthead_intro_bg_color',
+			'name' => 'masthead_intro_bg_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -738,7 +738,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c977a6af7f5e',
 			'label' => __('Title & Intro location', 'tkm-starter'),
-			'name' => 'page_masthead_title_location',
+			'name' => 'masthead_title_location',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -777,7 +777,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c9779d3f7f5c',
 			'label' => __('Title & Intro Horizontal position', 'tkm-starter'),
-			'name' => 'page_masthead_title_hor',
+			'name' => 'masthead_title_hor',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -824,7 +824,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c977a33f7f5d',
 			'label' => __('Titile & Intro Vertical position', 'tkm-starter'),
-			'name' => 'page_masthead_title_ver',
+			'name' => 'masthead_title_ver',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -1030,7 +1030,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5csnnff651a',
 			'label' => __('Button Type', 'tkm-starter'),
-			'name' => 'page_masthead_btn_type',
+			'name' => 'masthead_btn_type',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -1070,7 +1070,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99d0f44523',
 			'label' => __('Button Style', 'tkm-starter'),
-			'name' => 'page_masthead_button_style',
+			'name' => 'masthead_button_style',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -1120,7 +1120,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99dde13eea7',
 			'label' => __('Button text color', 'tkm-starter'),
-			'name' => 'page_masthead_btn_color',
+			'name' => 'masthead_btn_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -1160,7 +1160,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99de133eea8',
 			'label' => __('Button background color', 'tkm-starter'),
-			'name' => 'page_masthead_btn_bg_color',
+			'name' => 'masthead_btn_bg_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -1202,7 +1202,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99d7e997b16',
 			'label' => __('First Button - text', 'tkm-starter'),
-			'name' => 'page_masthead_btn1_text',
+			'name' => 'masthead_btn1_text',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -1246,7 +1246,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99dssc46518',
 			'label' => __('First Button - Image', 'tkm-starter'),
-			'name' => 'page_masthead_btn1_img',
+			'name' => 'masthead_btn1_img',
 			'type' => 'image',
 			'instructions' => '',
 			'required' => 0,
@@ -1295,7 +1295,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99d83597b17',
 			'label' => __('First Button - link', 'tkm-starter'),
-			'name' => 'page_masthead_btn1_link',
+			'name' => 'masthead_btn1_link',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -1330,7 +1330,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99d84d97b18',
 			'label' => __('Second Button - text', 'tkm-starter'),
-			'name' => 'page_masthead_btn2_text',
+			'name' => 'masthead_btn2_text',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -1374,7 +1374,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99dsnfgf6518',
 			'label' => __('Second Button - Image', 'tkm-starter'),
-			'name' => 'page_masthead_btn2_img',
+			'name' => 'masthead_btn2_img',
 			'type' => 'image',
 			'instructions' => '',
 			'required' => 0,
@@ -1423,7 +1423,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c99d86397b19',
 			'label' => __('Second Button - link', 'tkm-starter'),
-			'name' => 'page_masthead_btn2_link',
+			'name' => 'masthead_btn2_link',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -1808,7 +1808,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c978bcf63295',
 			'label' => __('Main title color', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_title_color',
+			'name' => 'mobile_masthead_title_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -1834,7 +1834,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c978b4663293',
 			'label' => __('Intro text color', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_text_color',
+			'name' => 'mobile_masthead_text_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -1864,7 +1864,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tk5c97sd3sse93',
 			'label' => __('Intro background color', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_intro_bg_color',
+			'name' => 'mobile_masthead_intro_bg_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -1894,7 +1894,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c977a6af7f5e',
 			'label' => __('Title & Intro location', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_title_location',
+			'name' => 'mobile_masthead_title_location',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -1933,7 +1933,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c9779d3f7f5c',
 			'label' => __('Title & Intro Horizontal position', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_title_hor',
+			'name' => 'mobile_masthead_title_hor',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -1973,7 +1973,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c977a33f7f5d',
 			'label' => __('Titile & Intro Vertical position', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_title_ver',
+			'name' => 'mobile_masthead_title_ver',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -2164,7 +2164,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c99d7e997b16',
 			'label' => __('First Button - text', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_btn1_text',
+			'name' => 'mobile_masthead_btn1_text',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -2199,7 +2199,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c99d83597b17',
 			'label' => __('First Button - link', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_btn1_link',
+			'name' => 'mobile_masthead_btn1_link',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -2234,7 +2234,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c99d84d97b18',
 			'label' => __('Second Button - text', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_btn2_text',
+			'name' => 'mobile_masthead_btn2_text',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -2269,7 +2269,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c99d86397b19',
 			'label' => __('Second Button - link', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_btn2_link',
+			'name' => 'mobile_masthead_btn2_link',
 			'type' => 'text',
 			'instructions' => '',
 			'required' => 0,
@@ -2304,7 +2304,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5h6ts31a',
 			'label' => __('Button Style', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_button_style',
+			'name' => 'mobile_masthead_button_style',
 			'type' => 'radio',
 			'instructions' => '',
 			'required' => 0,
@@ -2345,7 +2345,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c99dde13eea7',
 			'label' => __('Button text color', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_btn_color',
+			'name' => 'mobile_masthead_btn_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
@@ -2381,7 +2381,7 @@ acf_add_local_field_group(array(
 		array(
 			'key' => 'field_5tkmobile5c99de133eea8',
 			'label' => __('Button background color', 'tkm-starter'),
-			'name' => 'mobile_page_masthead_btn_bg_color',
+			'name' => 'mobile_masthead_btn_bg_color',
 			'type' => 'color_picker',
 			'instructions' => '',
 			'required' => 0,
