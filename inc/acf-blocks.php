@@ -8958,7 +8958,7 @@ acf_add_local_field_group(array(
 											'new_lines' => 'br',
 										),
 										array(
-											'key' => 'field_5tk5cbdsrre38',
+											'key' => 'field_5tk5cbds4r2e38',
 											'label' => __('Link', 'tkm-starter'),
 											'name' => 'client_s_r_link',
 											'type' => 'text',
@@ -9446,7 +9446,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk2009jhe6',
 									'label' => __('Break to new line', 'tkm-starter'),
-									'name' => 'f_bull__break',
+									'name' => 'f_bull_break',
 									'type' => 'true_false',
 									'instructions' => '',
 									'required' => 0,
@@ -9465,7 +9465,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk0kgt5afw',
 									'label' => __('Block align', 'tkm-starter'),
-									'name' => 'f_bull__block_align',
+									'name' => 'f_bull_block_align',
 									'type' => 'radio',
 									'instructions' => '',
 									'required' => 0,
@@ -9498,7 +9498,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5d33456238',
 									'label' => __('Order On mobile', 'tkm-starter'),
-									'name' => 'f_bull__order',
+									'name' => 'f_bull_order',
 									'type' => 'number',
 									'instructions' => '',
 									'required' => 0,
@@ -9519,7 +9519,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5c33345e2wf1',
 									'label' => __('Mobile layout', 'tkm-starter'),
-									'name' => 'f_bull__mobile',
+									'name' => 'f_bull_mobile',
 									'type' => 'radio',
 									'instructions' => '',
 									'required' => 0,
@@ -9543,7 +9543,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cde45re3d32e5',
 									'label' => __('Hide On Mobile', 'tkm-starter'),
-									'name' => 'f_bull__hide_mobile',
+									'name' => 'f_bull_hide_mobile',
 									'type' => 'true_false',
 									'instructions' => '',
 									'required' => 0,
@@ -9562,7 +9562,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5c22m3llo93',
 									'label' => __('Animation', 'tkm-starter'),
-									'name' => 'f_bull__animation',
+									'name' => 'f_bull_animation',
 									'type' => 'radio',
 									'instructions' => '',
 									'required' => 0,
@@ -9592,7 +9592,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cdc2557bac5c',
 									'label' => __('Main Title', 'tkm-starter'),
-									'name' => 'f_bull__title',
+									'name' => 'f_bull_title',
 									'type' => 'text',
 									'instructions' => '',
 									'required' => 0,
@@ -9611,7 +9611,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cdc2573bac5d',
 									'label' => __('Main SubTitle', 'tkm-starter'),
-									'name' => 'f_bull__subtitle',
+									'name' => 'f_bull_subtitle',
 									'type' => 'text',
 									'instructions' => '',
 									'required' => 0,
@@ -9630,7 +9630,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cdc259bbac5e',
 									'label' => __('Layout', 'tkm-starter'),
-									'name' => 'f_bull__layout',
+									'name' => 'f_bull_layout',
 									'type' => 'radio',
 									'instructions' => '',
 									'required' => 0,
@@ -9800,7 +9800,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cdc2hhdt5e',
 									'label' => __('Icon Size (if image icon)', 'tkm-starter'),
-									'name' => 'f_bull__size',
+									'name' => 'f_bull_size',
 									'type' => 'radio',
 									'instructions' => '',
 									'required' => 0,
@@ -9825,7 +9825,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cds34e3ddfr3',
 									'label' => __('Icon Size (if font icon)', 'tkm-starter'),
-									'name' => 'f_bull__icon_size',
+									'name' => 'f_bull_icon_size',
 									'type' => 'number',
 									'instructions' => '',
 									'required' => 0,
@@ -9846,7 +9846,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk54c9dd1fb673',
 									'label' => __('Image icon cut type', 'tkm-starter'),
-									'name' => 'f_bull__img_size',
+									'name' => 'f_bull_img_size',
 									'type' => 'radio',
 									'instructions' => '',
 									'required' => 0,
@@ -9892,7 +9892,7 @@ acf_add_local_field_group(array(
 										array(
 											'key' => 'field_5tk5cdc2652bac60',
 											'label' => __('Type', 'tkm-starter'),
-											'name' => 'f_bull__style',
+											'name' => 'f_bull_style',
 											'type' => 'radio',
 											'instructions' => '',
 											'required' => 0,
