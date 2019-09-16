@@ -9873,7 +9873,7 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5cdc2621bac5f',
 									'label' => __('List', 'tkm-starter'),
-									'name' => 'f_bull_',
+									'name' => 'f_bull',
 									'type' => 'repeater',
 									'instructions' => '',
 									'required' => 0,
