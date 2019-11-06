@@ -11556,8 +11556,8 @@ acf_add_local_field_group(array(
 								array(
 									'key' => 'field_5tk5c5fe601b3a01',
 									'label' => __('Address', 'tkm-starter'),
-									'name' => 'map',
-									'type' => 'mp_ma',
+									'name' => 'mp_ma',
+									'type' => 'google_map',
 									'instructions' => '',
 									'required' => 0,
 									'conditional_logic' => 0,
