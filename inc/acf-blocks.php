@@ -8987,7 +8987,7 @@ acf_add_local_field_group(array(
 										array(
 											'key' => 'field_5tk5cdc2948bac68',
 											'label' => __('SubText color', 'tkm-starter'),
-											'name' => 'bl_lTc',
+											'name' => 'bl_lTxc',
 											'type' => 'color_picker',
 											'instructions' => '',
 											'required' => 0,
